@@ -1,0 +1,420 @@
+09/05/2024 19:03:14.314 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:15.154 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:15.383 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:15.573 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:15.743 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:15.935 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:16.124 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:16.361 [[32minfo[39m]: host name read successfully
+09/05/2024 19:04:00.815 [[32minfo[39m]: host name read successfully
+09/05/2024 19:04:01.528 [[32minfo[39m]: host name read successfully
+09/05/2024 19:05:47.922 [[32minfo[39m]: host name read successfully
+09/05/2024 19:05:48.965 [[32minfo[39m]: host name read successfully
+09/05/2024 19:05:49.805 [[32minfo[39m]: host name read successfully
+09/05/2024 19:05:50.663 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:29.401 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:30.419 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:31.727 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:34.976 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:36.285 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:52.991 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:52.993 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:53.531 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:53.531 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:53.818 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:53.818 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:54.064 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:54.064 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:54.291 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:54.291 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:54.545 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:54.546 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:55.748 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:55.749 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:56.083 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:56.083 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:56.318 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:56.319 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:56.553 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:56.554 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:56.761 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:56.761 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:56.970 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:56.971 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:57.151 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:57.153 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:57.335 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:57.335 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:58.700 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:58.701 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:07:53.418 [[32minfo[39m]: successfully found clients
+09/05/2024 19:07:53.421 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:07.832 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:07.834 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:08.619 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:08.619 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:09.322 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:09.323 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:09.871 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:09.871 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:10.699 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:10.700 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:13.689 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:14.675 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:15.899 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:16.522 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:16.876 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:17.167 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:17.413 [[32minfo[39m]: successfully found clients
+09/05/2024 19:12:22.985 [[32minfo[39m]: successfully found clients
+14/05/2024 17:16:23.176 [[32minfo[39m]: successfully found clients
+14/05/2024 17:16:23.200 [[32minfo[39m]: successfully found clients
+14/05/2024 17:21:01.899 [[32minfo[39m]: successfully found clients
+14/05/2024 17:21:01.907 [[32minfo[39m]: successfully found clients
+14/05/2024 17:21:24.564 [[32minfo[39m]: successfully found clients
+14/05/2024 17:21:24.565 [[32minfo[39m]: successfully found clients
+14/05/2024 17:30:13.461 [[31merror[39m]: path: no path message: Cannot read properties of undefined (reading 'findMany')
+14/05/2024 17:30:13.471 [[31merror[39m]: path: no path message: Cannot read properties of undefined (reading 'findMany')
+14/05/2024 17:33:19.063 [[31merror[39m]: path: no path message: Do not know how to serialize a BigInt
+14/05/2024 17:33:19.329 [[31merror[39m]: path: no path message: Do not know how to serialize a BigInt
+14/05/2024 17:41:12.571 [[31merror[39m]: path: no path message: Do not know how to serialize a BigInt
+14/05/2024 17:41:12.686 [[31merror[39m]: path: no path message: Do not know how to serialize a BigInt
+15/05/2024 15:00:40.552 [[31merror[39m]: path: no path message: contains is not defined
+15/05/2024 15:00:40.563 [[31merror[39m]: path: no path message: contains is not defined
+15/05/2024 15:10:07.512 [[31merror[39m]: path: no path message: contains is not defined
+15/05/2024 15:10:07.525 [[31merror[39m]: path: no path message: contains is not defined
+15/05/2024 15:16:47.743 [[31merror[39m]: path: no path message: contains is not defined
+15/05/2024 15:16:47.754 [[31merror[39m]: path: no path message: contains is not defined
+15/05/2024 16:19:15.280 [[31merror[39m]: path: no path message: contains is not defined
+15/05/2024 16:19:15.292 [[31merror[39m]: path: no path message: contains is not defined
+15/05/2024 18:38:45.363 [[31merror[39m]: path: no path message: contains is not defined
+15/05/2024 18:38:45.373 [[31merror[39m]: path: no path message: contains is not defined
+16/05/2024 13:58:58.084 [[31merror[39m]: path: no path message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\user\Projeto\generic-backend\src\controllers\clienteController.js:6:40
+
+  3 
+  4 const getClientes = async (req, res) => {
+  5   const { nome,filtro } = req.query;
+→ 6   let clientes = await prisma.clientes.findMany({
+        where: {
+          filtro: {
+          ~~~~~~
+            contains: "SOORETAMA",
+            mode: "insensitive"
+          },
+      ?   AND?: ClientesWhereInput | ClientesWhereInput[],
+      ?   OR?: ClientesWhereInput[],
+      ?   NOT?: ClientesWhereInput | ClientesWhereInput[],
+      ?   id?: StringFilter | String,
+      ?   statusCliente?: BoolNullableFilter | Boolean | Null,
+      ?   ipConcentrador?: StringNullableFilter | String | Null,
+      ?   nomeConcentrador?: StringNullableFilter | String | Null,
+      ?   latitudeCliente?: StringNullableFilter | String | Null,
+      ?   longitudeCliente?: StringNullableFilter | String | Null,
+      ?   conexaoInicial?: DateTimeNullableFilter | DateTime | Null,
+      ?   conexaoFinal?: DateTimeNullableFilter | DateTime | Null,
+      ?   tempoConectado?: IntNullableFilter | Int | Null,
+      ?   consumoDownload?: BigIntNullableFilter | BigInt | Null,
+      ?   consumoUpload?: BigIntNullableFilter | BigInt | Null,
+      ?   motivoDesconexao?: StringNullableFilter | String | Null,
+      ?   popCliente?: StringNullableFilter | String | Null,
+      ?   nomeCliente?: StringNullableFilter | String | Null,
+      ?   enderecoCliente?: StringNullableFilter | String | Null,
+      ?   bairroCliente?: StringNullableFilter | String | Null,
+      ?   cidadeCliente?: StringNullableFilter | String | Null,
+      ?   planoContrato?: StringNullableFilter | String | Null,
+      ?   statusInternet?: IntNullableFilter | Int | Null,
+      ?   valorPlano?: FloatNullableFilter | Float | Null
+        }
+      })
+
+Unknown argument `filtro`. Available options are marked with ?.
+16/05/2024 13:59:03.290 [[31merror[39m]: path: no path message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\user\Projeto\generic-backend\src\controllers\clienteController.js:6:40
+
+  3 
+  4 const getClientes = async (req, res) => {
+  5   const { nome,filtro } = req.query;
+→ 6   let clientes = await prisma.clientes.findMany({
+        where: {
+          filtro: {
+          ~~~~~~
+            contains: "abel",
+            mode: "insensitive"
+          },
+      ?   AND?: ClientesWhereInput | ClientesWhereInput[],
+      ?   OR?: ClientesWhereInput[],
+      ?   NOT?: ClientesWhereInput | ClientesWhereInput[],
+      ?   id?: StringFilter | String,
+      ?   statusCliente?: BoolNullableFilter | Boolean | Null,
+      ?   ipConcentrador?: StringNullableFilter | String | Null,
+      ?   nomeConcentrador?: StringNullableFilter | String | Null,
+      ?   latitudeCliente?: StringNullableFilter | String | Null,
+      ?   longitudeCliente?: StringNullableFilter | String | Null,
+      ?   conexaoInicial?: DateTimeNullableFilter | DateTime | Null,
+      ?   conexaoFinal?: DateTimeNullableFilter | DateTime | Null,
+      ?   tempoConectado?: IntNullableFilter | Int | Null,
+      ?   consumoDownload?: BigIntNullableFilter | BigInt | Null,
+      ?   consumoUpload?: BigIntNullableFilter | BigInt | Null,
+      ?   motivoDesconexao?: StringNullableFilter | String | Null,
+      ?   popCliente?: StringNullableFilter | String | Null,
+      ?   nomeCliente?: StringNullableFilter | String | Null,
+      ?   enderecoCliente?: StringNullableFilter | String | Null,
+      ?   bairroCliente?: StringNullableFilter | String | Null,
+      ?   cidadeCliente?: StringNullableFilter | String | Null,
+      ?   planoContrato?: StringNullableFilter | String | Null,
+      ?   statusInternet?: IntNullableFilter | Int | Null,
+      ?   valorPlano?: FloatNullableFilter | Float | Null
+        }
+      })
+
+Unknown argument `filtro`. Available options are marked with ?.
+16/05/2024 13:59:04.475 [[31merror[39m]: path: no path message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\user\Projeto\generic-backend\src\controllers\clienteController.js:6:40
+
+  3 
+  4 const getClientes = async (req, res) => {
+  5   const { nome,filtro } = req.query;
+→ 6   let clientes = await prisma.clientes.findMany({
+        where: {
+          filtro: {
+          ~~~~~~
+            contains: "abel",
+            mode: "insensitive"
+          },
+      ?   AND?: ClientesWhereInput | ClientesWhereInput[],
+      ?   OR?: ClientesWhereInput[],
+      ?   NOT?: ClientesWhereInput | ClientesWhereInput[],
+      ?   id?: StringFilter | String,
+      ?   statusCliente?: BoolNullableFilter | Boolean | Null,
+      ?   ipConcentrador?: StringNullableFilter | String | Null,
+      ?   nomeConcentrador?: StringNullableFilter | String | Null,
+      ?   latitudeCliente?: StringNullableFilter | String | Null,
+      ?   longitudeCliente?: StringNullableFilter | String | Null,
+      ?   conexaoInicial?: DateTimeNullableFilter | DateTime | Null,
+      ?   conexaoFinal?: DateTimeNullableFilter | DateTime | Null,
+      ?   tempoConectado?: IntNullableFilter | Int | Null,
+      ?   consumoDownload?: BigIntNullableFilter | BigInt | Null,
+      ?   consumoUpload?: BigIntNullableFilter | BigInt | Null,
+      ?   motivoDesconexao?: StringNullableFilter | String | Null,
+      ?   popCliente?: StringNullableFilter | String | Null,
+      ?   nomeCliente?: StringNullableFilter | String | Null,
+      ?   enderecoCliente?: StringNullableFilter | String | Null,
+      ?   bairroCliente?: StringNullableFilter | String | Null,
+      ?   cidadeCliente?: StringNullableFilter | String | Null,
+      ?   planoContrato?: StringNullableFilter | String | Null,
+      ?   statusInternet?: IntNullableFilter | Int | Null,
+      ?   valorPlano?: FloatNullableFilter | Float | Null
+        }
+      })
+
+Unknown argument `filtro`. Available options are marked with ?.
+16/05/2024 13:59:04.629 [[31merror[39m]: path: no path message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\user\Projeto\generic-backend\src\controllers\clienteController.js:6:40
+
+  3 
+  4 const getClientes = async (req, res) => {
+  5   const { nome,filtro } = req.query;
+→ 6   let clientes = await prisma.clientes.findMany({
+        where: {
+          filtro: {
+          ~~~~~~
+            contains: "abel",
+            mode: "insensitive"
+          },
+      ?   AND?: ClientesWhereInput | ClientesWhereInput[],
+      ?   OR?: ClientesWhereInput[],
+      ?   NOT?: ClientesWhereInput | ClientesWhereInput[],
+      ?   id?: StringFilter | String,
+      ?   statusCliente?: BoolNullableFilter | Boolean | Null,
+      ?   ipConcentrador?: StringNullableFilter | String | Null,
+      ?   nomeConcentrador?: StringNullableFilter | String | Null,
+      ?   latitudeCliente?: StringNullableFilter | String | Null,
+      ?   longitudeCliente?: StringNullableFilter | String | Null,
+      ?   conexaoInicial?: DateTimeNullableFilter | DateTime | Null,
+      ?   conexaoFinal?: DateTimeNullableFilter | DateTime | Null,
+      ?   tempoConectado?: IntNullableFilter | Int | Null,
+      ?   consumoDownload?: BigIntNullableFilter | BigInt | Null,
+      ?   consumoUpload?: BigIntNullableFilter | BigInt | Null,
+      ?   motivoDesconexao?: StringNullableFilter | String | Null,
+      ?   popCliente?: StringNullableFilter | String | Null,
+      ?   nomeCliente?: StringNullableFilter | String | Null,
+      ?   enderecoCliente?: StringNullableFilter | String | Null,
+      ?   bairroCliente?: StringNullableFilter | String | Null,
+      ?   cidadeCliente?: StringNullableFilter | String | Null,
+      ?   planoContrato?: StringNullableFilter | String | Null,
+      ?   statusInternet?: IntNullableFilter | Int | Null,
+      ?   valorPlano?: FloatNullableFilter | Float | Null
+        }
+      })
+
+Unknown argument `filtro`. Available options are marked with ?.
+16/05/2024 13:59:06.763 [[31merror[39m]: path: no path message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\user\Projeto\generic-backend\src\controllers\clienteController.js:6:40
+
+  3 
+  4 const getClientes = async (req, res) => {
+  5   const { nome,filtro } = req.query;
+→ 6   let clientes = await prisma.clientes.findMany({
+        where: {
+          filtro: {
+          ~~~~~~
+            contains: "abel",
+            mode: "insensitive"
+          },
+      ?   AND?: ClientesWhereInput | ClientesWhereInput[],
+      ?   OR?: ClientesWhereInput[],
+      ?   NOT?: ClientesWhereInput | ClientesWhereInput[],
+      ?   id?: StringFilter | String,
+      ?   statusCliente?: BoolNullableFilter | Boolean | Null,
+      ?   ipConcentrador?: StringNullableFilter | String | Null,
+      ?   nomeConcentrador?: StringNullableFilter | String | Null,
+      ?   latitudeCliente?: StringNullableFilter | String | Null,
+      ?   longitudeCliente?: StringNullableFilter | String | Null,
+      ?   conexaoInicial?: DateTimeNullableFilter | DateTime | Null,
+      ?   conexaoFinal?: DateTimeNullableFilter | DateTime | Null,
+      ?   tempoConectado?: IntNullableFilter | Int | Null,
+      ?   consumoDownload?: BigIntNullableFilter | BigInt | Null,
+      ?   consumoUpload?: BigIntNullableFilter | BigInt | Null,
+      ?   motivoDesconexao?: StringNullableFilter | String | Null,
+      ?   popCliente?: StringNullableFilter | String | Null,
+      ?   nomeCliente?: StringNullableFilter | String | Null,
+      ?   enderecoCliente?: StringNullableFilter | String | Null,
+      ?   bairroCliente?: StringNullableFilter | String | Null,
+      ?   cidadeCliente?: StringNullableFilter | String | Null,
+      ?   planoContrato?: StringNullableFilter | String | Null,
+      ?   statusInternet?: IntNullableFilter | Int | Null,
+      ?   valorPlano?: FloatNullableFilter | Float | Null
+        }
+      })
+
+Unknown argument `filtro`. Available options are marked with ?.
+16/05/2024 13:59:07.429 [[31merror[39m]: path: no path message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\user\Projeto\generic-backend\src\controllers\clienteController.js:6:40
+
+  3 
+  4 const getClientes = async (req, res) => {
+  5   const { nome,filtro } = req.query;
+→ 6   let clientes = await prisma.clientes.findMany({
+        where: {
+          filtro: {
+          ~~~~~~
+            contains: "abel",
+            mode: "insensitive"
+          },
+      ?   AND?: ClientesWhereInput | ClientesWhereInput[],
+      ?   OR?: ClientesWhereInput[],
+      ?   NOT?: ClientesWhereInput | ClientesWhereInput[],
+      ?   id?: StringFilter | String,
+      ?   statusCliente?: BoolNullableFilter | Boolean | Null,
+      ?   ipConcentrador?: StringNullableFilter | String | Null,
+      ?   nomeConcentrador?: StringNullableFilter | String | Null,
+      ?   latitudeCliente?: StringNullableFilter | String | Null,
+      ?   longitudeCliente?: StringNullableFilter | String | Null,
+      ?   conexaoInicial?: DateTimeNullableFilter | DateTime | Null,
+      ?   conexaoFinal?: DateTimeNullableFilter | DateTime | Null,
+      ?   tempoConectado?: IntNullableFilter | Int | Null,
+      ?   consumoDownload?: BigIntNullableFilter | BigInt | Null,
+      ?   consumoUpload?: BigIntNullableFilter | BigInt | Null,
+      ?   motivoDesconexao?: StringNullableFilter | String | Null,
+      ?   popCliente?: StringNullableFilter | String | Null,
+      ?   nomeCliente?: StringNullableFilter | String | Null,
+      ?   enderecoCliente?: StringNullableFilter | String | Null,
+      ?   bairroCliente?: StringNullableFilter | String | Null,
+      ?   cidadeCliente?: StringNullableFilter | String | Null,
+      ?   planoContrato?: StringNullableFilter | String | Null,
+      ?   statusInternet?: IntNullableFilter | Int | Null,
+      ?   valorPlano?: FloatNullableFilter | Float | Null
+        }
+      })
+
+Unknown argument `filtro`. Available options are marked with ?.
+16/05/2024 13:59:07.635 [[31merror[39m]: path: no path message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\user\Projeto\generic-backend\src\controllers\clienteController.js:6:40
+
+  3 
+  4 const getClientes = async (req, res) => {
+  5   const { nome,filtro } = req.query;
+→ 6   let clientes = await prisma.clientes.findMany({
+        where: {
+          filtro: {
+          ~~~~~~
+            contains: "abel",
+            mode: "insensitive"
+          },
+      ?   AND?: ClientesWhereInput | ClientesWhereInput[],
+      ?   OR?: ClientesWhereInput[],
+      ?   NOT?: ClientesWhereInput | ClientesWhereInput[],
+      ?   id?: StringFilter | String,
+      ?   statusCliente?: BoolNullableFilter | Boolean | Null,
+      ?   ipConcentrador?: StringNullableFilter | String | Null,
+      ?   nomeConcentrador?: StringNullableFilter | String | Null,
+      ?   latitudeCliente?: StringNullableFilter | String | Null,
+      ?   longitudeCliente?: StringNullableFilter | String | Null,
+      ?   conexaoInicial?: DateTimeNullableFilter | DateTime | Null,
+      ?   conexaoFinal?: DateTimeNullableFilter | DateTime | Null,
+      ?   tempoConectado?: IntNullableFilter | Int | Null,
+      ?   consumoDownload?: BigIntNullableFilter | BigInt | Null,
+      ?   consumoUpload?: BigIntNullableFilter | BigInt | Null,
+      ?   motivoDesconexao?: StringNullableFilter | String | Null,
+      ?   popCliente?: StringNullableFilter | String | Null,
+      ?   nomeCliente?: StringNullableFilter | String | Null,
+      ?   enderecoCliente?: StringNullableFilter | String | Null,
+      ?   bairroCliente?: StringNullableFilter | String | Null,
+      ?   cidadeCliente?: StringNullableFilter | String | Null,
+      ?   planoContrato?: StringNullableFilter | String | Null,
+      ?   statusInternet?: IntNullableFilter | Int | Null,
+      ?   valorPlano?: FloatNullableFilter | Float | Null
+        }
+      })
+
+Unknown argument `filtro`. Available options are marked with ?.
+16/05/2024 13:59:07.779 [[31merror[39m]: path: no path message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\user\Projeto\generic-backend\src\controllers\clienteController.js:6:40
+
+  3 
+  4 const getClientes = async (req, res) => {
+  5   const { nome,filtro } = req.query;
+→ 6   let clientes = await prisma.clientes.findMany({
+        where: {
+          filtro: {
+          ~~~~~~
+            contains: "abel",
+            mode: "insensitive"
+          },
+      ?   AND?: ClientesWhereInput | ClientesWhereInput[],
+      ?   OR?: ClientesWhereInput[],
+      ?   NOT?: ClientesWhereInput | ClientesWhereInput[],
+      ?   id?: StringFilter | String,
+      ?   statusCliente?: BoolNullableFilter | Boolean | Null,
+      ?   ipConcentrador?: StringNullableFilter | String | Null,
+      ?   nomeConcentrador?: StringNullableFilter | String | Null,
+      ?   latitudeCliente?: StringNullableFilter | String | Null,
+      ?   longitudeCliente?: StringNullableFilter | String | Null,
+      ?   conexaoInicial?: DateTimeNullableFilter | DateTime | Null,
+      ?   conexaoFinal?: DateTimeNullableFilter | DateTime | Null,
+      ?   tempoConectado?: IntNullableFilter | Int | Null,
+      ?   consumoDownload?: BigIntNullableFilter | BigInt | Null,
+      ?   consumoUpload?: BigIntNullableFilter | BigInt | Null,
+      ?   motivoDesconexao?: StringNullableFilter | String | Null,
+      ?   popCliente?: StringNullableFilter | String | Null,
+      ?   nomeCliente?: StringNullableFilter | String | Null,
+      ?   enderecoCliente?: StringNullableFilter | String | Null,
+      ?   bairroCliente?: StringNullableFilter | String | Null,
+      ?   cidadeCliente?: StringNullableFilter | String | Null,
+      ?   planoContrato?: StringNullableFilter | String | Null,
+      ?   statusInternet?: IntNullableFilter | Int | Null,
+      ?   valorPlano?: FloatNullableFilter | Float | Null
+        }
+      })
+
+Unknown argument `filtro`. Available options are marked with ?.
+16/05/2024 14:13:38.385 [[31merror[39m]: path: no path message: clientes is not defined
