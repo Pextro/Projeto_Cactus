@@ -7,6 +7,6 @@ const routes = Router();
 
 //rota para buscar todos os clientes
 routes.get("/findManyCliente", findByIdClientesController.handle);
-routes.get('/clientes/{', getClientes);
+routes.get('/clientes', getClientes);
 
 module.exports = routes;
